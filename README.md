@@ -9,7 +9,7 @@
 
 💻 **Core project**: [PULP-Platform](https://pulp-platform.org)
 
-🌐 **Collaborations**: ETH (Zürich), IDSIA (Lugano), TII research center (Abu Dhabi), PoliTO (Turin), GreenWaves Technologies (Grenoble).
+🌐 **Collaborations**: ETH (Zürich), IDSIA (Lugano), UZH (Zürich) TII research center (Abu Dhabi), PoliTO (Turin), GreenWaves Technologies (Grenoble).
 
 📫 **Reach me on**: [Linkedin](https://www.linkedin.com/in/lorenzo-lamberti), [UniBO](https://www.unibo.it/sitoweb/lorenzo.lamberti)
 
